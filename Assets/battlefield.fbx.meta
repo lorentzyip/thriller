@@ -1,0 +1,245 @@
+fileFormatVersion: 2
+guid: c953e1c6d8b26fc43bfdeb889e1f4dc8
+timeCreated: 1516285849
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: barrel
+    100002: base
+    100004: //RootNode
+    100006: Camera01
+    100008: Camera01.Target
+    100010: Field
+    100012: flag
+    100014: Flagpole
+    100016: frame
+    100018: oak_tree
+    100020: Omni01
+    100022: Omni02
+    100024: roof
+    100026: sail1
+    100028: sail2
+    100030: sail3
+    100032: sail4
+    100034: sail5
+    100036: sails
+    100038: Sphere01
+    100040: wheel_left
+    100042: wheel_right
+    100044: windmill
+    400000: barrel
+    400002: base
+    400004: //RootNode
+    400006: Camera01
+    400008: Camera01.Target
+    400010: Field
+    400012: flag
+    400014: Flagpole
+    400016: frame
+    400018: oak_tree
+    400020: Omni01
+    400022: Omni02
+    400024: roof
+    400026: sail1
+    400028: sail2
+    400030: sail3
+    400032: sail4
+    400034: sail5
+    400036: sails
+    400038: Sphere01
+    400040: wheel_left
+    400042: wheel_right
+    400044: windmill
+    2100000: Windmill
+    2100002: Battlefield
+    2100004: Cannon
+    2100006: Stone
+    2100008: Trunk
+    2100010: Branch0
+    2300000: barrel
+    2300002: base
+    2300004: Field
+    2300006: flag
+    2300008: Flagpole
+    2300010: frame
+    2300012: oak_tree
+    2300014: roof
+    2300016: sail1
+    2300018: sail2
+    2300020: sail3
+    2300022: sail4
+    2300024: sail5
+    2300026: sails
+    2300028: Sphere01
+    2300030: wheel_left
+    2300032: wheel_right
+    3300000: barrel
+    3300002: base
+    3300004: Field
+    3300006: flag
+    3300008: Flagpole
+    3300010: frame
+    3300012: oak_tree
+    3300014: roof
+    3300016: sail1
+    3300018: sail2
+    3300020: sail3
+    3300022: sail4
+    3300024: sail5
+    3300026: sails
+    3300028: Sphere01
+    3300030: wheel_left
+    3300032: wheel_right
+    4300000: base
+    4300002: roof
+    4300004: sails
+    4300006: sail1
+    4300008: sail2
+    4300010: sail3
+    4300012: sail4
+    4300014: sail5
+    4300016: Field
+    4300018: frame
+    4300020: Flagpole
+    4300022: flag
+    4300024: wheel_left
+    4300026: wheel_right
+    4300028: barrel
+    4300030: Sphere01
+    4300032: oak_tree
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Battlefield
+    second: {fileID: 2100000, guid: 245cb2837d92962429d19421250834c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Branch0
+    second: {fileID: 2100000, guid: e1d8954006cd34d45849521159655669, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cannon
+    second: {fileID: 2100000, guid: 90a5c5e5a884b4f46894bfeaf5af56b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stone
+    second: {fileID: 2100000, guid: 79b5e0737c5a38a4daa53d5941e7937e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trunk
+    second: {fileID: 2100000, guid: 18e63ad29addbb243950e17ac37b1fff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Windmill
+    second: {fileID: 2100000, guid: 51c348bb1a24a0240818b534fbe69308, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cannon
+    second: {fileID: 2800000, guid: 49dfdc85ebc227b45b6ab76515574025, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: flaking paint
+    second: {fileID: 2800000, guid: 3b6ef8179cf120e469c25bd656a86cbd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ground01
+    second: {fileID: 2800000, guid: 7ba23d6a9f1bd5c42967c6002c1aea5a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: oakleaf
+    second: {fileID: 2800000, guid: 6fd5c6d4ca6725148be1c6f1305e7b1c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: windmill
+    second: {fileID: 2800000, guid: 2dea0883a99a13f4f8000235b2724f63, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
